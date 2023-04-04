@@ -1,0 +1,17 @@
+numpy
+scipy
+opencv-python
+matplotlib
+torch
+transformers
+pytorch-lightning
+albumentations
+omegaconf
+wandb
+segmentation-models-pytorch
+python-dotenv
+pyclipper
+# evaluation dependencies
+absl-py
+shapely
+apache_beam
